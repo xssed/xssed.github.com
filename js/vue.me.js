@@ -20,30 +20,29 @@ new Vue({
     musicPlay: false,
     publicLinks: [
 	  {
-        type: "lover",
-        link: "https://www.xsser.cc/about_me.html",
-        name: "lover",
-        iconClass: "fa fa-heart"
-      },
-	  {
         type: "github",
         link: "https://github.com/xssed",
         name: "GitHub",
         iconClass: "icon-github"
       },
+	  {
+        type: "lover",
+        link: "https://www.xsser.cc/about_me.html",
+        name: "lover",
+        iconClass: "fa fa-heart"
+      },
       {
         type: "mail",
-        link:
-          "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;amp;email=xsser@xsser.cc",
+        link: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;amp;email=xsser@xsser.cc",
         name: "MAIL",
         iconClass: "icon-mail"
       },
-      //{
-      //  type: "gogs",
-      //  link: "",
-      //  name: "gogs",
-      //  iconClass: "fa fa-code-fork"
-      //},
+      {
+        type: "spider",
+        link: "https://github.com/xssed",
+        name: "spider",
+        iconClass: "icon-spider"
+      },
       //{
       //  type: "portainer-io",
       //  link: "",
