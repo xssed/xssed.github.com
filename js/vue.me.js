@@ -40,7 +40,7 @@ new Vue({
       {
         type: "gogs",
         link: "https://github.com/xssed",
-        name: "spider",
+        name: "gogs",
         iconClass: "icon-smile"
       },
       //{
