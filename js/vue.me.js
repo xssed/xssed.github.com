@@ -8,7 +8,7 @@ new Vue({
       "https://www.xsser.cc/assets/canon.mp3",
     copyright: "© 2019",
     signature:
-      "欲买桂花同载酒，终不似，少年游。",
+      "桃花坞里桃花庵，桃花庵下桃花仙；桃花仙人种桃树，又摘桃花卖酒钱。",
     blogUrl: "https://www.xsser.cc",
     avatarUrl:
       "https://avatars0.githubusercontent.com/u/8002835",
