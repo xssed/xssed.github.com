@@ -38,7 +38,7 @@ new Vue({
         iconClass: "icon-mail"
       },
       {
-        type: "spider",
+        type: "gogs",
         link: "https://github.com/xssed",
         name: "spider",
         iconClass: "icon-smile"
