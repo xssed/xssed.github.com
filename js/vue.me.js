@@ -41,7 +41,7 @@ new Vue({
         type: "spider",
         link: "https://github.com/xssed",
         name: "spider",
-        iconClass: "icon-spider"
+        iconClass: "icon-smile"
       },
       //{
       //  type: "portainer-io",
