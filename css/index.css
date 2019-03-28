@@ -163,7 +163,10 @@ strong, b {
 	color: #313f47;
 }
 
-em, i {
+/*em, i {
+	font-style: italic;
+}*/
+em{
 	font-style: italic;
 }
 

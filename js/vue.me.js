@@ -23,25 +23,29 @@ new Vue({
         type: "github",
         link: "https://github.com/xssed",
         name: "GitHub",
-        iconClass: "icon-github"
-      },
-	  {
-        type: "lover",
-        link: "https://www.xsser.cc/about_me.html",
-        name: "lover",
-        iconClass: "fa fa-heart"
+        iconClass: "icon-github",
+		emoji:"",
       },
       {
         type: "mail",
         link: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;amp;email=xsser@xsser.cc",
         name: "MAIL",
-        iconClass: "icon-mail"
+        iconClass: "icon-mail",
+		emoji: "",
+      },
+	  {
+        type: "lover",
+        link: "https://www.xsser.cc/about_me.html",
+        name: "lover",
+        iconClass: "",/*fa fa-heart*/
+		emoji:"❤️",
       },
       {
         type: "gogs",
-        link: "https://github.com/xssed",
+        link: "https://github.com/xssed/owlcache",
         name: "gogs",
-        iconClass: "icon-smile"
+        iconClass: "",/*icon-smile*/
+		emoji:"😃",
       },
       //{
       //  type: "portainer-io",

@@ -60,7 +60,7 @@ MMBM@BBB@B@B@Br:i,..:Lur:    7@OMMBM@B@@
           </a>
           <div class="social">
             <a target="_blank" v-for="item in publicLinks" :class="item.type" :href="item.link" :title="item.title">
-              <i :class="item.iconClass"></i>
+              <i :class="item.iconClass">{{item.emoji}}</i>
             </a>
           </div>
           <div class="social">
