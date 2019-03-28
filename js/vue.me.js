@@ -40,13 +40,13 @@ new Vue({
         iconClass: "",/*fa fa-heart*/
 		emoji:"❤️",
       },
-      {
-        type: "gogs",
-        link: "https://github.com/xssed/owlcache",
-        name: "gogs",
-        iconClass: "",/*icon-smile*/
-		emoji:"😃",
-      },
+//      {
+//        type: "gogs",
+//        link: "https://github.com/xssed/owlcache",
+//        name: "gogs",
+//        iconClass: "",/*icon-smile*/
+//		emoji:"😃",
+//      },
       //{
       //  type: "portainer-io",
       //  link: "",
