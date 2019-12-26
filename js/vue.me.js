@@ -6,7 +6,7 @@ new Vue({
     musicText: "music",
     musicUrl:
       "https://www.xsser.cc/assets/canon.mp3",
-    copyright: "© 2019",
+    copyright: "© 2020",
     signature:
       "桃花坞里桃花庵，桃花庵下桃花仙；桃花仙人种桃树，又摘桃花卖酒钱。",
     blogUrl: "https://www.xsser.cc",
