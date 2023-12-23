@@ -6,7 +6,7 @@ new Vue({
     musicText: "music",
     musicUrl:
       "https://www.xsser.cc/assets/canon.mp3",
-    copyright: "© 2021 | 鲁ICP备2021037147号-1 ",
+    copyright: "© 2021-2024 | 鲁ICP备2021037147号-1 ",
     signature:
       "桃花坞里桃花庵，桃花庵下桃花仙；桃花仙人种桃树，又摘桃花卖酒钱。",
     blogUrl: "https://www.xsser.cc",
